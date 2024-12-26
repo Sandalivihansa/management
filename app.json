@@ -41,7 +41,7 @@
     "OWNER_ID": {
       "description": "Your Telegram user ID as an integer.",
       "required": false,
-      "value": "1344569458"
+      "value": "1451534504"
     },
     "SUPPORT_GROUP": {
       "description": "Your Telegram support group username for user assistance.",
