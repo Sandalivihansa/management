@@ -51,7 +51,7 @@
     "MESSAGE_DUMP": {
       "description": "Channel where bot will send logs and updates.",
       "required": true,
-      "value": "-1001720451925"
+      "value": " -1002325247996"
     },
     "PREFIX_HANDLER": {
       "description": "Prefix(es) for bot commands, separated by space (e.g., '/ ! $').",
