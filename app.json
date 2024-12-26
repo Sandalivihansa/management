@@ -10,8 +10,8 @@
     "Gojo",
     "Anime"
   ],
-  "repository": "https://github.com/Gojo-Bots/Gojo_Satoru",
-  "success_url": "https://t.me/GojoSuperbot",
+  "repository": "https://github.com/Sandalivihansa/management",
+  "success_url": "https://t.me/slmusicmania",
   "env": {
     "BOT_TOKEN": {
       "description": "Your Telegram bot token, obtained from @BotFather.",
