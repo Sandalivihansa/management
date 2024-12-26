@@ -46,7 +46,7 @@
     "SUPPORT_GROUP": {
       "description": "Your Telegram support group username for user assistance.",
       "required": false,
-      "value": "gojo_bots_network"
+      "value": "-1001720451925"
     },
     "MESSAGE_DUMP": {
       "description": "Channel where bot will send logs and updates.",
